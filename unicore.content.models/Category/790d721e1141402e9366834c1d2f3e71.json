@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "790d721e1141402e9366834c1d2f3e71", 
+  "language": "spa_ES", 
+  "title": "De 0 a 1 a\u00f1o", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "de-0-1-ano", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
