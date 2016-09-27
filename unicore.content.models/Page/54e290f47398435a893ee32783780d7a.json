@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_ES", 
+  "title": "Dando un paseo", 
+  "primary_category": "5e67fb7aca5849e18d39d200aef4fb1b", 
+  "created_at": "2016-09-27T11:24:46.132116+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-27T11:24:46.132416+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Mientras caminan, elijan un punto de llegada y cuenten cu\u00e1ntos pasos les toma llegar hasta all\u00ed con pasos grandes y pasos cortos, o corran y luego caminen. Hablen sobre c\u00f3mo estos cambios afectan el n\u00famero de pasos en \"muchos\" o \"pocos\".\r\n\r\nLa ciencia tras de la acci\u00f3n:\r\n\r\nCon este tipo de juego, tu hijo o hija est\u00e1 aprendiendo conceptos de matem\u00e1ticas como la distancia y contar, al experimentarlos con su cuerpo, adem\u00e1s de fomentar su curiosidad y su pensamiento creativo.\r\n\r\nArt\u00edculo siguiente:", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "fb90206fa17547d78eee02e16f8abbc8", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "dando-un-paseo", 
+  "uuid": "54e290f47398435a893ee32783780d7a"
+}
