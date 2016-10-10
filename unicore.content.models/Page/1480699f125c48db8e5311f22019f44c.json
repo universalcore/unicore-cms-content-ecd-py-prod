@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Jouer tous ensemble", 
+  "language": "fre_FR", 
+  "title": "Recommandations utiles pour les enfants de 1 \u00e0 2 ans!", 
+  "primary_category": "49b099786e1a41b49f087dc1c89bfe9c", 
+  "created_at": "2016-10-10T09:17:00.096009+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-10-10T09:17:00.096241+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "RECOMMANDATIONS ET JOUETS QUE VOUS POUVEZ UTILISEZ POUR LES ENFANTS DE 1 \u00c0 2 ANS\r\n\r\n- Le jeu d\u2019imitation d\u2019un enfant \u00e2g\u00e9 d\u2019un an est tr\u00e8s simple. Donnez-leur des objets qu\u2019ils ont besoin pour imiter et regardez-les en train d\u2019imiter les autres. Une cuill\u00e8re et une casserole pour qu\u2019ils puissent pr\u00e9tendre cuisiner. \r\n\r\n- Il est important de remarquer et de f\u00e9liciter les enfants de ce qu\u2019ils apprennent \u00e0 faire. \r\n\r\n- Essayez de comprendre les mots de l\u2019enfant et v\u00e9rifiez si vous comprenez ce qu\u2019il vous dit. \r\n\r\n- Utilisez toujours des mots doux pour calmer un enfant bless\u00e9/agit\u00e9 et encouragez les efforts de l\u2019enfant. \r\n\r\n- Utilisez des jouets tels que des objets imbriqu\u00e9s,  boites et clip de v\u00eatements, etc.\r\n\r\nProchain article: ", 
+  "source": "152b9055ab4e40e08a5e17400b2a7c5b", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "fe1f52b995054d5197c07f5e3ea1d63d", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "recommandations-utiles-pour-les-enfants-de-1-2-ans", 
+  "uuid": "1480699f125c48db8e5311f22019f44c"
+}
