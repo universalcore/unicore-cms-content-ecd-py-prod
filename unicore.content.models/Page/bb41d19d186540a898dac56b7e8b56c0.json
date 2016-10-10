@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "58ad31926bed487094ffcbb22a183f4b"
+  ], 
   "id": null, 
   "content": "SAVIEZ-VOUS?\r\n\r\n- Les b\u00e9b\u00e9s font l\u2019exp\u00e9rience des relations cause \u00e0 effet.\r\n\r\n- Les b\u00e9b\u00e9s exp\u00e9rimentent comment les objets tombent et font du bruit. Ils d\u00e9couvrent aussi la r\u00e9sistance et la force de leurs bras et de leurs jambes. \r\n\r\n- Les b\u00e9b\u00e9s aiment faire du bruit en frappant et tapant toute sorte d\u2019objets sur le sol ou sur d\u2019autres surfaces. Ceci peut \u00eatre frustrant pour des parents occup\u00e9s mais il est pourtant essentiel que ces derniers se montrent patients car c\u2019est comme cela que l\u2019enfant apprend. \r\n\r\n- Avant m\u00eame d\u2019apprendre \u00e0 prononcer leurs premiers mots, les enfants apprennent par ce qui leur a \u00e9t\u00e9 dit, ce qui leur permet de m\u00e9moriser et de beaucoup comprendre les r\u00e9alit\u00e9s qui les entourent.\r\n\r\n- Les b\u00e9b\u00e9s remarquent les diff\u00e9rents types d\u2019humeur que peuvent avoir leur entourage. Quand les gens sont en col\u00e8re ceci peut les contrarier.\r\n\r\n- Les b\u00e9b\u00e9s imitent les sons et les gestes des autres.\r\n\r\n- Les b\u00e9b\u00e9s aiment que les autres r\u00e9pondent aux sons qu\u2019ils \u00e9mettent et qu\u2019ils montrent qu\u2019ils sont int\u00e9ress\u00e9s.\r\n\r\n- Un b\u00e9b\u00e9 peut reconna\u00eetre son nom avant m\u00eame de pouvoir le prononcer. Entendre son nom permet \u00e0 l\u2019enfant de savoir qu\u2019il est une personne sp\u00e9ciale  au sein de la famille. \r\n\r\nProchain article:", 
   "source": "ed5014e58856452d943e3dc51b07c04c", 
