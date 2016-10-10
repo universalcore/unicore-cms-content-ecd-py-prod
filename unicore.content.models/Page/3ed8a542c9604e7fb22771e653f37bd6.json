@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "719bc268b48348c080851b6589459890"
+  ], 
   "id": null, 
   "content": "LE SAVIEZ-VOUS?\r\n\r\n- Les enfants aiment interagir avec les parents et les les personnes qui en prennent soin. Ils peuvent avoir peur lorsqu'ils perdent de vue ces personnes qui leur sont si famili\u00e8res.\r\n\r\n- Vous pouvez aider votre enfant \u00e0 se sentir en s\u00e9curit\u00e9 en lui r\u00e9pondant quand il crie ou a faim, et en le calmant par votre pr\u00e9sence et le doux son de votre voix. \r\n\r\n- Jouer continue d\u2019\u00eatre pour les enfants un moyen d\u2019explorer et d\u2019apprendre \u00e0 mieux se conna\u00eetre, ainsi que les personnes qui les entourent et le monde. \r\n\r\n- \u00c0 mesure que les enfants d\u00e9couvrent leurs pieds et orteils, ils cherchent \u00e0 les toucher comme ils le feraient avec un jouet.\r\n\r\n- Les enfants aiment jouer \u00e0 cache-cache. Quand quelqu\u2019un dispara\u00eet derri\u00e8re un arbre, ils rient une fois que ce dernier r\u00e9appara\u00eet. Ils aiment se cacher sous un v\u00eatement et rigoler quand on les \u00ab retrouve \u00bb.\r\n\r\n- M\u00eame si les enfants ne savent pas encore parler, ils montrent qu\u2019ils comprennent ce que les membres de la famille sont en train de dire.\r\n\r\n- Les enfants entendent le nom des objets et se r\u00e9jouissent de savoir ce que c\u2019est. Ils commencent \u00e0 associer ces objets \u00e0 leur nom. Par exemple, ils associent le mot \u00ab oiseau \u00bb \u00e0 l\u2019animal vu dans un livre ou \u00e0 l\u2019oiseau sur l\u2019arbre. Ou encore le mot \u00ab nez \u00bb \u00e0 leur nez.\r\n\r\nProchain article: ", 
   "source": "bba8ed48461544fa872d2490a96234ef", 
