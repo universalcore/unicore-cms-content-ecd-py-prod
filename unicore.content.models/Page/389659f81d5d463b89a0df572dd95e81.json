@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_ES", 
+  "title": "La hora de las melod\u00edas", 
+  "primary_category": "5e67fb7aca5849e18d39d200aef4fb1b", 
+  "created_at": "2016-09-27T11:25:44+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-27T11:51:43.433395+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "54e290f47398435a893ee32783780d7a"
+  ], 
+  "id": null, 
+  "content": "**\u00bfCu\u00e1l es la canci\u00f3n favorita de tu hijo o hija? Empieza cantando una l\u00ednea y deja que \u00e9l/ella cante lo siguiente. \u00a1Juntos crean m\u00fasica maravillosa!.**\r\n\r\n**La ciencia tras de la acci\u00f3n:**\r\nLa hora de la m\u00fasica se convierte en la hora del aprendizaje. Al ayudar a tu hijo o hija a prestar atenci\u00f3n a las palabras de las canciones y el ritmo, est\u00e1 aprendiendo a escuchar con atenci\u00f3n; esto adem\u00e1s tambi\u00e9n fortalece su memoria.\r\n\r\nArt\u00edculo siguiente: ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "e215408a311c442d8d84b8f7c3bd29e8", 
+  "published": null, 
+  "position": 28, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "la-hora-de-las-melodias", 
+  "uuid": "389659f81d5d463b89a0df572dd95e81"
+}

@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "About Internet of Good Things", 
+  "primary_category": null, 
+  "created_at": "2016-09-30T12:05:16.602914+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-30T12:05:16.603126+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Internet of Good Things (IoGT) is a set of free, mobile-ready web-based resources and applications that bring good to your life by helping you and your community access educational and lifesaving information.\r\n\r\nTopics and issues on Internet of Good Things include maternal health, hygiene, emergency information on diseases such as Ebola, Polio and Cholera, HIV and sexual health advice for adolescents, Internet safety, positive parenting techniques and more.\r\n\r\nBy connecting to Internet of Good Things, children, adolescents, mothers, fathers, other family members, health trainers, caregivers and communities can gain access to localized, updated, quality content at their point of care and directly on their mobile phone at anytime for free.\r\n\r\nInternet of Good things : Live better today", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "about-internet-good-things", 
+  "uuid": "6ec9fb71fb0346b1a4c2d2c4e73e1ac7"
+}

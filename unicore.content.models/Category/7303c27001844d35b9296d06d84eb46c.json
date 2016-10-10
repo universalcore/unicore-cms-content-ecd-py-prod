@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "7303c27001844d35b9296d06d84eb46c", 
+  "language": "fre_FR", 
+  "title": "\u00c0 PROPOS DE \u201cPETITE ENFANCE : UN BON D\u00c9PART POUR LA VIE\u201d ", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "propos-des-recommandations-pour-les-premieres-annees-de-vie", 
+  "source": "550d2c365d654b92adfe227e030a912c", 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}

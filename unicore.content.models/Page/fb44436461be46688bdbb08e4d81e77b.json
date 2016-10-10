@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_ES", 
+  "title": "Sensaciones que provoca la esponja", 
+  "primary_category": "fc28cbed67e44f74982a2c8fdba5e2d2", 
+  "created_at": "2016-09-27T11:37:52.058751+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-27T11:37:52.058983+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "ed1e11e2c1c142c2b242ab2dba725265"
+  ], 
+  "id": null, 
+  "content": "**Mientras lavas los platos, permite que tu hijo o hija juegue con una esponja limpia en un lugar donde est\u00e9 seguro. Le encantar\u00e1 la textura. Ens\u00e9\u00f1ale c\u00f3mo exprimir y absorber agua y preg\u00fantale qu\u00e9 siente.**\r\n\r\n**La ciencia tras de la acci\u00f3n:**\r\nCuando tu hijo o hija siente cosas nuevas y escucha palabras nuevas en conversaciones como \u00e9stas, estar\u00e1 estableciendo conexiones en su mente que son la base para la lectura y las matem\u00e1ticas.\r\n\r\n\r\nArt\u00edculo siguiente: ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "7b2091a849f147bdb380ae2125ce2697", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "sensaciones-que-provoca-la-esponja", 
+  "uuid": "fb44436461be46688bdbb08e4d81e77b"
+}

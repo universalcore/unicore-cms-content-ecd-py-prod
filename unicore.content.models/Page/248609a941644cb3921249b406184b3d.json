@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_ES", 
+  "title": "Platos sucios, risas tontas", 
+  "primary_category": "fc28cbed67e44f74982a2c8fdba5e2d2", 
+  "created_at": "2016-09-27T11:40:22.633263+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-27T11:40:22.633499+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "a9df529a335b478d9e660f96a1bec3c3"
+  ], 
+  "id": null, 
+  "content": "**Mientras lavas los platos, mu\u00e9strale a tu hijo o hija un plato sucio, diciendo \u201cfuchi\u201d con una cara divertida. Tu expresi\u00f3n causar\u00e1 risas. Con cada nuevo plato, usa una nueva palabra, como \u201cpegajoso\u201d o \u201cmanchado\u201d.**\r\n\r\n**La ciencia tras de la acci\u00f3n:**\r\nTu hijo o hija adquiere habilidades de comunicaci\u00f3n a partir de tu tono de voz, expresiones faciales, movimientos corporales y palabras. Tambi\u00e9n aprende a disfrutar del sonido de las palabras cuando t\u00fa las usas de forma divertida.\r\n\r\nArt\u00edculo siguiente: ", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "9b92e6df8c684c0795afd89fa68e8d22", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "platos-sucios-risas-tontas", 
+  "uuid": "248609a941644cb3921249b406184b3d"
+}
