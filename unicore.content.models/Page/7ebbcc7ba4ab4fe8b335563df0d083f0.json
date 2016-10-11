@@ -2,23 +2,23 @@
   "subtitle": "", 
   "description": "", 
   "language": "spa_ES", 
-  "title": "Juega a las escondidas", 
+  "title": "Jug\u00e1 a las escondidas", 
   "primary_category": "790d721e1141402e9366834c1d2f3e71", 
-  "created_at": "2016-09-27T11:47:17.473165+00:00", 
+  "created_at": "2016-09-27T11:47:17+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-09-28T15:17:26.405339+00:00", 
+  "modified_at": "2016-10-11T12:22:21.645303+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "4cd4401608ee45ebba9f47075fed7a6b"
   ], 
   "id": null, 
-  "content": "**Cualquier cosa que tengas cerca puedes usarla para jugar escondidas con tu beb\u00e9.**\r\n\r\n**La ciencia tras de la acci\u00f3n:**\r\nEl juego de esconderse y aparecer ayuda a tu beb\u00e9 a aprender que t\u00fa sigues all\u00ed pero lo m\u00e1s importante es que es divertido: Tu cara y tu voz son sus juegos favoritos.\r\n\r\nArt\u00edculo siguiente: ", 
+  "content": "**Pod\u00e9s usar cualquier cosa que tengas cerca para jugar a las escondidas con tu beb\u00e9.**\r\n\r\n**La ciencia tras de la acci\u00f3n:**\r\nel juego de esconderse y aparecer ayuda a tu beb\u00e9 a aprender que vos segu\u00eds all\u00ed pero lo m\u00e1s importante es que es divertido: tu cara y tu voz son sus juegos favoritos.\r\n\r\nArt\u00edculo siguiente: ", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "juega-las-escondidas", 
+  "slug": "juga-las-escondidas", 
   "uuid": "7ebbcc7ba4ab4fe8b335563df0d083f0"
 }
