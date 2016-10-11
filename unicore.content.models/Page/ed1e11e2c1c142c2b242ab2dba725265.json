@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "95f428733d904076bd6dc06b9a05e625"
+  ], 
   "id": null, 
   "content": "**Los objetos de uso diario son juguetes maravillosos. Agit\u00e1 una caja de pa\u00f1uelos de papel vac\u00eda y una cuchara. Met\u00e9 la cuchara a la caja y luego sacala. Dej\u00e1 que tu hijo o hija juegue a partir de tu ejemplo.**\r\n\r\n**La ciencia tras de la acci\u00f3n:**\r\nes un juego simple. Sin embargo, tu hijo o hija estar\u00e1 explorando una idea importante: los objetos y las personas siguen existiendo incluso cuando est\u00e1n fuera de la vista.\r\n\r\n\r\nArt\u00edculo siguiente:", 
   "source": null, 
