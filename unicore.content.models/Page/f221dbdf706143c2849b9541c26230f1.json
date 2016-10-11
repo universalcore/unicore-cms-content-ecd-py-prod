@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0bf791304d384fe2aafa45830f45f6b5"
+  ], 
   "id": null, 
   "content": "**Tu beb\u00e9 ya entiende: contale todo lo que est\u00e1s haciendo mientras lo cambi\u00e1s. Comenz\u00e1 explicando c\u00f3mo elegiste su ropa y continu\u00e1 a partir de all\u00ed. Mirale y respond\u00e9 a los sonidos que haga.**\r\n\r\n**La ciencia tras de la acci\u00f3n:**\r\nestas conversaciones ayudan a que tu beb\u00e9 establezca v\u00ednculos afectivos contigo y comience a asociar las palabras con sus experiencias.\r\n\r\nArt\u00edculo siguiente: ", 
   "source": null, 
