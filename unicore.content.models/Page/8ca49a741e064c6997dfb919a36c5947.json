@@ -4,21 +4,21 @@
   "language": "spa_ES", 
   "title": "El juego del balbuceo", 
   "primary_category": "790d721e1141402e9366834c1d2f3e71", 
-  "created_at": "2016-09-27T11:50:32.862298+00:00", 
+  "created_at": "2016-09-27T11:50:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-09-28T15:17:25.896630+00:00", 
+  "modified_at": "2016-10-11T11:55:05.697020+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "37ba244f81c547c5b238cba083ff243e"
   ], 
   "id": null, 
-  "content": "**Cuando tu beb\u00e9 comience a hacer ruidos, consid\u00e9ralos parte de una conversaci\u00f3n real e im\u00edtalo de inmediato.**\r\n\r\n**La ciencia tras de la acci\u00f3n:**\r\nCuando le hablas a tu beb\u00e9, estimulas las conexiones que se necesitan para el desarrollo del lenguaje y la comunicaci\u00f3n m\u00e1s adelante.\r\n\r\nArt\u00edculo siguiente: ", 
+  "content": "**Cuando tu beb\u00e9 comience a hacer ruidos, consideralos parte de una conversaci\u00f3n real e imitalo de inmediato.**\r\n\r\n**La ciencia tras de la acci\u00f3n:**\r\ncuando le habl\u00e1s a tu beb\u00e9, estimul\u00e1s las conexiones que se necesitan m\u00e1s adelante para el desarrollo del lenguaje y la comunicaci\u00f3n.\r\n\r\nArt\u00edculo siguiente: ", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
